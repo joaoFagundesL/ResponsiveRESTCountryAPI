@@ -1,2 +1,2 @@
 # RESTCountryAPI
-responsive-restc-ountry-api.vercel.app
+https://responsive-restc-ountry-api.vercel.app/
